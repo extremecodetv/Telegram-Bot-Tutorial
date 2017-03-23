@@ -1,7 +1,7 @@
 # Telegram-Bot-Tutorial
 
 Видео урок по разработке этого Telegram бота (Клик для просмотра)<br /><br />
-[![Видео](http://img.youtube.com/vi/EJ5gBzH4130/0.jpg)](http://www.youtube.com/watch?v=EJ5gBzH4130 "Делаем Telegram бот на C# и ASP.NET")
+[![Видео](http://img.youtube.com/vi/iOFQ8CyF6wk/0.jpg)](http://www.youtube.com/watch?v=iOFQ8CyF6wk "Делаем Telegram бот на C# и ASP.NET")
 
 # Developer
 
